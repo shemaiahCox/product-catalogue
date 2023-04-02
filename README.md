@@ -21,14 +21,14 @@ This is a practice portfoilio project so the following should be beared in mind;
   - Mobile first design
   - Performance optimization
 
-## User Stories
+## Main Stories
 
 As a user I should be able to;
 
-- View a list of products
-- See products by category
+- See a list of products
 - Search for product
 - Add a product to cart
+- View products in cart
 
 ## Available Scripts
 
