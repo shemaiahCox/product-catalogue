@@ -163,7 +163,11 @@ a.login-signup {
 a.login-signup:hover {
   text-decoration: none;
 }
-  
+
+a.basket:link {
+  color: black;
+}
+
 a.basket:visited {
   color: black;
 }
