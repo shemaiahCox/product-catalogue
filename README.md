@@ -41,4 +41,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Preview
 
-You can see a live version @ ...
+Live version deployed via [Netlify](https://animated-rabanadas-a41f68.netlify.app/).
