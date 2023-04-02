@@ -1,4 +1,4 @@
-# Getting Started with Product Catelogue
+# Getting Started with Product Catalogue
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
