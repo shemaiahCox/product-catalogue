@@ -451,7 +451,7 @@ button.basket-delete-button:hover {
 .checkout {
   display: flex;
   align-items: center;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .checkout h2 {
